@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-7"/>
+      <pair l="Acedilla" r="T" v="-7"/>
+      <pair l="Adieresis" r="T" v="-7"/>
+      <pair l="Agrave" r="T" v="-7"/>
+      <pair l="Aogonek" r="T" v="-7"/>
+      <pair l="Aring" r="T" v="-7"/>
+      <pair l="Atilde" r="T" v="-7"/>
+      <pair l="T" r="A" v="-5"/>
+      <pair l="T" r="Acedilla" v="-5"/>
+      <pair l="T" r="Adieresis" v="-5"/>
+      <pair l="T" r="Agrave" v="-5"/>
+      <pair l="T" r="Aogonek" v="-5"/>
+      <pair l="T" r="Aring" v="-5"/>
+      <pair l="T" r="Atilde" v="-5"/>
+      <pair l="T" r="aacute" v="-5"/>
+      <pair l="T" r="acircumflex" v="-5"/>
+      <pair l="T" r="adieresis" v="-5"/>
+      <pair l="T" r="agrave" v="-5"/>
+      <pair l="T" r="aring" v="-5"/>
+      <pair l="T" r="atilde" v="-5"/>
+      <pair l="T" r="uni01CD" v="-5"/>
+      <pair l="T" r="uni01CE" v="-5"/>
+      <pair l="aacute" r="T" v="-7"/>
+      <pair l="acircumflex" r="T" v="-7"/>
+      <pair l="adieresis" r="T" v="-7"/>
+      <pair l="agrave" r="T" v="-7"/>
+      <pair l="aring" r="T" v="-7"/>
+      <pair l="atilde" r="T" v="-7"/>
+      <pair l="uni01CD" r="T" v="-7"/>
+      <pair l="uni01CE" r="T" v="-7"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
