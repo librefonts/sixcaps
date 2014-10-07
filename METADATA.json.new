@@ -1,0 +1,33 @@
+{
+  "name": "Six Caps",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 26034,
+  "fonts": [
+    {
+      "name": "Six Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SixCaps-TTF.ttf",
+      "postScriptName": "SixCaps",
+      "fullName": "Six Caps",
+      "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Six Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SixCaps-Regular.ttf",
+      "postScriptName": "SixCaps",
+      "fullName": "Six Caps",
+      "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-02-16"
+}
